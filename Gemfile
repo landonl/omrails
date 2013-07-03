@@ -2,6 +2,9 @@ source 'https://rubygems.org'
 
 gem 'rails', '3.2.12'
 gem 'jquery-rails'
+gem 'devise'
+gem 'omniauth-facebook'
+
 
 group :production do
   gem 'pg'
