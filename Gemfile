@@ -4,6 +4,7 @@ gem 'rails', '3.2.12'
 gem 'jquery-rails'
 gem 'devise'
 gem 'omniauth-facebook'
+gem 'simple_form'
 
 
 group :production do
